@@ -9,7 +9,6 @@ short_description: Xamarin is a platform for developing iOS and Android applicat
 topic: xamarin
 url: https://www.xamarin.com/
 wikipedia_url: https://en.wikipedia.org/wiki/Xamarin
+docs: https://docs.microsoft.com/en-us/xamarin/
 ---
-Xamarin is a Microsoft-owned, San Francisco, California-based software company. It was founded by the creators of Mono, Mono for Android, and MonoTouch, which are cross-platform implementations of the Common Language Infrastructure (CLI) and Common Language Specifications (often called Microsoft .NET).
-
-With a C#-shared codebase, developers can use Xamarin tools to write native Android, iOS, and Windows apps. The apps have native user interfaces and share code across multiple platforms, including Windows and macOS.
+Xamarin is a platform for developing native Android, iOS, and Windows applications with the Visual Studio IDE. It is a open-source, uses .NET code and a C#-shared codebase. Developers can use Xamarin tools to write apps with native user interfaces, or completely native apps.
